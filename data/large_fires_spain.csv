@@ -1,0 +1,11 @@
+year,large_fires_count,avg_ha_per_large_fire,pct_area_from_large_fires,source
+1978,153,NA,NA,MITECO-EGIF (via ARBA-S 2025 analysis)
+1985,160,NA,NA,MITECO-EGIF (via ARBA-S 2025 analysis)
+1986,104,NA,NA,MITECO-EGIF (via ARBA-S 2025 analysis)
+1989,98,NA,NA,MITECO-EGIF (via ARBA-S 2025 analysis)
+1994,88,3815,NA,MITECO-EGIF (via ARBA-S 2025 analysis)
+2000,NA,NA,33.74,MITECO-EGIF (via ARBA-S 2025 analysis)
+2006,58,NA,NA,MITECO-EGIF (via ARBA-S 2025 analysis)
+2017,56,NA,NA,MITECO-EGIF (via ARBA-S 2025 analysis)
+2022,57,4557,80.0,MITECO-EGIF (via ARBA-S 2025 analysis)
+2025,NA,6000,80.0,MITECO-EGIF (via ARBA-S 2025 analysis; provisional to Aug 2025)
