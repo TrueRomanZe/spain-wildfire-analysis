@@ -1,6 +1,6 @@
 # Spain Wildfires: It's Not a Resources Problem, It's a Decisions Problem
 
-A statistical and spatial (R + `sf`) analysis of large-fire concentration in Spain, plus the policy context behind it — built as a technical writing sample and as the source data for [this LinkedIn post](https://www.linkedin.com/in/sromera/).
+A statistical and spatial (R + `sf`) analysis of large-fire concentration in Spain, plus the policy context behind it — built as a technical writing sample and as the source data for [this LinkedIn post](https://lnkd.in/p/enf-fN73).
 
 *Data last verified: 19 August 2026, against primary sources only (EFFIS/Copernicus satellite data, the JRC's official EU wildfire situation page, and MITECO's official press releases; MITECO ground reporting and named fire-service technicians used where satellite-specific data wasn't available). The 2026 fire season was still active at time of writing. Same-date year-over-year comparisons are shown at MULTIPLE checkpoints rather than one, specifically because this comparison proved highly volatile between checks — including a full reversal by 17 August (see "A note on volatility" below).*
 
