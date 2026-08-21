@@ -1,9 +1,0 @@
-claim,value,source
-annual_wildfire_spending_spain_eur,"over 1,000,000,000 EUR/year","ASEMFO (2025) wildfire economics report, as cited via La Discrepancia analysis; figures compiled from MITECO budget data"
-pct_spending_suppression,"70-75%","ASEMFO (2025) / MITECO, via La Discrepancia analysis"
-pct_spending_prevention,"25-30%","ASEMFO (2025) / MITECO, via La Discrepancia analysis"
-rural_spain_pct_of_territory,84%,"MITECO / INE rural demographics, via La Discrepancia analysis"
-rural_spain_pct_of_population,16%,"MITECO / INE rural demographics, via La Discrepancia analysis"
-forest_cover_growth_ha_15yr,"approx. 990,000 ha","Spanish National Forest Inventory trend, via Oficina de Ciencia del Congreso (Congress Science Office) briefing on rural abandonment and fire risk"
-grazing_as_official_prevention_tool,TRUE,"MITECO official guidance recommends supporting extensive grazing, traditional agriculture and silviculture as wildfire prevention tools, via Oficina de Ciencia del Congreso briefing"
-grazing_fuel_reduction_evidence,"peer-reviewed","Rouet-Leduc et al. (2021), Mancilla-Leyton et al. (2012), Celaya et al. (2022) - cited in Oficina de Ciencia del Congreso briefing on grazing and fuel load reduction"
